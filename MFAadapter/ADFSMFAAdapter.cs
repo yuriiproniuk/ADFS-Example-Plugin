@@ -58,7 +58,7 @@ namespace MFAadapter
                     {
                         // Step 3:
                         // Log the event using Windows Event Log APIs. 
-                        //LogAuthEvent(authResult);
+                        LogAuthEvent(authResult);
                         isAuthSuccess = true;
                     }
                     else
