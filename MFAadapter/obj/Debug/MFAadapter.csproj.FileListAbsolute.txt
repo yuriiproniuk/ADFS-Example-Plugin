@@ -1,0 +1,14 @@
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\obj\Debug\MFAadapter.Resources.resources
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\obj\Debug\MFAadapter.csproj.GenerateResource.cache
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\obj\Debug\MFAadapter.csproj.CoreCompileInputs.cache
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\MFAadapter.dll
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\MFAadapter.pdb
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\Microsoft.IdentityServer.Web.dll
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\Microsoft.IdentityServer.WebHost.dll
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\Microsoft.IdentityServer.dll
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\obj\Debug\MFAadapter.csproj.CopyComplete
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\obj\Debug\MFAadapter.dll
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\obj\Debug\MFAadapter.pdb
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\Newtonsoft.Json.dll
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\Newtonsoft.Json.xml
+C:\Sandbox\ADFS Homework\MFAadapter\MFAadapter\bin\Debug\Microsoft.IdentityServer.Diagnostics.dll

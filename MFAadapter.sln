@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFAadapter", "MFAadapter\MFAadapter.csproj", "{2E6DF92A-2683-40B1-96E2-C82C5AB80C19}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Plugin Installer", "Plugin Installer\Plugin Installer.aiproj", "{ECD3D501-425B-45CB-BD27-1BFAB7AA46D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFAadapterTests", "MFAadapterTests\MFAadapterTests.csproj", "{FCC4FC34-4066-4FD6-A562-59EAC19BB04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6DF92A-2683-40B1-96E2-C82C5AB80C19}.All|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6DF92A-2683-40B1-96E2-C82C5AB80C19}.All|Any CPU.Build.0 = Debug|Any CPU
+		{2E6DF92A-2683-40B1-96E2-C82C5AB80C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6DF92A-2683-40B1-96E2-C82C5AB80C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6DF92A-2683-40B1-96E2-C82C5AB80C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6DF92A-2683-40B1-96E2-C82C5AB80C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD3D501-425B-45CB-BD27-1BFAB7AA46D8}.All|Any CPU.ActiveCfg = DefaultBuild
+		{ECD3D501-425B-45CB-BD27-1BFAB7AA46D8}.All|Any CPU.Build.0 = DefaultBuild
+		{ECD3D501-425B-45CB-BD27-1BFAB7AA46D8}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{ECD3D501-425B-45CB-BD27-1BFAB7AA46D8}.Debug|Any CPU.Build.0 = DefaultBuild
+		{ECD3D501-425B-45CB-BD27-1BFAB7AA46D8}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{ECD3D501-425B-45CB-BD27-1BFAB7AA46D8}.Release|Any CPU.Build.0 = DefaultBuild
+		{FCC4FC34-4066-4FD6-A562-59EAC19BB04B}.All|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC4FC34-4066-4FD6-A562-59EAC19BB04B}.All|Any CPU.Build.0 = Debug|Any CPU
+		{FCC4FC34-4066-4FD6-A562-59EAC19BB04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC4FC34-4066-4FD6-A562-59EAC19BB04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC4FC34-4066-4FD6-A562-59EAC19BB04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC4FC34-4066-4FD6-A562-59EAC19BB04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76EDCA5E-D114-48E0-AAA2-120DFA7C6E00}
+	EndGlobalSection
+EndGlobal

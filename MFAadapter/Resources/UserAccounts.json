@@ -1,0 +1,26 @@
+[
+  {
+    "UserPrincipalName": "yuriiproniuk@softserveinc",
+    "IsActive": true
+  },
+  {
+    "UserPrincipalName": "oleksiiyatsenko@softserveinc",
+    "IsActive": true
+  },
+  {
+    "UserPrincipalName": "solomiianpavliuk@softserveinc",
+    "IsActive": false
+  },
+  {
+    "UserPrincipalName": "johndoe@externalorg",
+    "IsActive": true
+  },
+  {
+    "UserPrincipalName": "foobar@externalorg",
+    "IsActive": false
+  },
+  {
+    "UserPrincipalName": "lespaul@gibsonllc",
+    "IsActive": false
+  }
+]
